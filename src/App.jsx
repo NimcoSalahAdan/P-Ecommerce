@@ -4,7 +4,7 @@ import Header from './component/Header';
 import Home from './pages/Home';
 import About from './pages/About';
 import Men from './pages/Men';
-import Women from './page/Women';
+import Women from './pages/Women';
 import Contact from './pages/Contact';
 import Footer from './component/Footer';
 
