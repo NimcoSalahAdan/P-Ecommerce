@@ -37,22 +37,22 @@ function Header() {
             </button>
 
             <div className="hidden lg:flex lg:items-center lg:ml-auto lg:space-x-10">
-              <Link to="" className="text-base font-medium text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600">
+              <Link to="/" className="text-base font-medium text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600">
                 Home
               </Link>
 
-              <Link to="About" className="text-base font-medium text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600">
+              <Link to="/About" className="text-base font-medium text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600">
                 About
               </Link>
 
-              <Link to="Men" className="text-base font-medium text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600">
+              <Link to="/Men" className="text-base font-medium text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600">
                 Men
               </Link>
 
-              <Link to="Women" className="text-base font-medium text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600">
+              <Link to="/Women" className="text-base font-medium text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600">
                 Women
               </Link>
-              <Link to="Contact" className="text-base font-medium text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600">
+              <Link to="/Contact" className="text-base font-medium text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600">
                 Contact
               </Link>
             </div>
